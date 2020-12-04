@@ -1,5 +1,5 @@
 # Template_HTML-CSS
-## Template desenvolvido no curso do link https://alunos.b7web.com.br/curso/html5-e-css3/o-que-e-html-e-pra-que-serve
+## Template desenvolvido no curso do link https://alunos.b7web.com.br/curso/html5-e-css3/
 <img src="https://raw.githubusercontent.com/matheusosp/Template_HTML-CSS/main/media/readme/Template_photo1.jpg" />
 
 <img src="https://raw.githubusercontent.com/matheusosp/Template_HTML-CSS/main/media/readme/Template_photo2.jpg" />
